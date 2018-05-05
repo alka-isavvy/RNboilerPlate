@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:react-native-fbsdk] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:1-30:12
+MERGED from [:react-native-vector-icons] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-simpledialog-android] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-simpledialog-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-i18n] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.32.0.aar/508f19a22a9c8b7a2729b38bc25747ae/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-login-4.32.0.aar/d226a00d022e9ec0861d35be1d1cb94a/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-share-4.32.0.aar/82673e5e98fc1edc9d0e650de7461ead/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/6bc58dd59b5106a31731fe492c9bb090/AndroidManifest.xml:21:1-36:12
+MERGED from [com.facebook.react:react-native:0.49.5] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/13aac465efcb6ea58f9c593e0f23d65c/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0fb1cc9954c55c08f3fa324a6ddd4ac3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-places-4.32.0.aar/a3db0cae262f2dd0401c6ceba3309158/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.32.0.aar/d863fe88f6304f4f1f10c06ac57e749f/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.32.0.aar/a74879a227df592a3bc577228521658b/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/a39b0e35b4e01017ee3e14ee08bbed29/AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/07e17c5191849cd0c6772383f3503d6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/8d116d5e2a2831c04ce5b0dee98356c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9532957085c6cbb1ab08755bc3dcf40c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/6a4646f9cd4f14cf8cc6de276f660ae8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/11a17077edd1f4255227a4317c34dd1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d56c877694a6b6cc1b667f11d2a169a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2e59fb5d4377d5f7f82f7ef75a506565/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/4487497608380bae3b91be274427953d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/2f7e500056cf2038143b1c3b552f442f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0881fcf36ec16a420bff53003e668712/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/ba7f0c57feb884d6c31fdf200acd1fad/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/70be9e4f9c622203f81d96918222aaa4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/6b3753b7091b9a12abe5450fc12da4da/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/678f3a5600f59fe183b50d0114f4c45d/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/b9272d7d5c6dbeef3f74469000ebe60f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/0daff31b897bfe37f3fa503ab46689f9/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/7c160ebaa8a6a306cb4060a7645ae3af/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/dca050062742b74f9295245bdc12b417/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/6c44b5bcd466164ac06c22ef27a1f40c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/728d43184d461f104d425c83d1d36067/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.49.5] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/13aac465efcb6ea58f9c593e0f23d65c/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.49.5] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/13aac465efcb6ea58f9c593e0f23d65c/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [:react-native-fbsdk] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-vector-icons] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-simpledialog-android] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-simpledialog-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-simpledialog-android] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-simpledialog-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-i18n] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-i18n] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.32.0.aar/508f19a22a9c8b7a2729b38bc25747ae/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.32.0.aar/508f19a22a9c8b7a2729b38bc25747ae/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-login-4.32.0.aar/d226a00d022e9ec0861d35be1d1cb94a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-login-4.32.0.aar/d226a00d022e9ec0861d35be1d1cb94a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-share-4.32.0.aar/82673e5e98fc1edc9d0e650de7461ead/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-share-4.32.0.aar/82673e5e98fc1edc9d0e650de7461ead/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/6bc58dd59b5106a31731fe492c9bb090/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/6bc58dd59b5106a31731fe492c9bb090/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.react:react-native:0.49.5] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/13aac465efcb6ea58f9c593e0f23d65c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.49.5] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/13aac465efcb6ea58f9c593e0f23d65c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0fb1cc9954c55c08f3fa324a6ddd4ac3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0fb1cc9954c55c08f3fa324a6ddd4ac3/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-places-4.32.0.aar/a3db0cae262f2dd0401c6ceba3309158/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-places-4.32.0.aar/a3db0cae262f2dd0401c6ceba3309158/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.32.0.aar/d863fe88f6304f4f1f10c06ac57e749f/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.32.0.aar/d863fe88f6304f4f1f10c06ac57e749f/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.32.0.aar/a74879a227df592a3bc577228521658b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.32.0.aar/a74879a227df592a3bc577228521658b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/a39b0e35b4e01017ee3e14ee08bbed29/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/a39b0e35b4e01017ee3e14ee08bbed29/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/07e17c5191849cd0c6772383f3503d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/07e17c5191849cd0c6772383f3503d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/8d116d5e2a2831c04ce5b0dee98356c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/8d116d5e2a2831c04ce5b0dee98356c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9532957085c6cbb1ab08755bc3dcf40c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9532957085c6cbb1ab08755bc3dcf40c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/6a4646f9cd4f14cf8cc6de276f660ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/6a4646f9cd4f14cf8cc6de276f660ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/11a17077edd1f4255227a4317c34dd1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/11a17077edd1f4255227a4317c34dd1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d56c877694a6b6cc1b667f11d2a169a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d56c877694a6b6cc1b667f11d2a169a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2e59fb5d4377d5f7f82f7ef75a506565/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2e59fb5d4377d5f7f82f7ef75a506565/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/4487497608380bae3b91be274427953d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/4487497608380bae3b91be274427953d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/2f7e500056cf2038143b1c3b552f442f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/2f7e500056cf2038143b1c3b552f442f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0881fcf36ec16a420bff53003e668712/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0881fcf36ec16a420bff53003e668712/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/ba7f0c57feb884d6c31fdf200acd1fad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/ba7f0c57feb884d6c31fdf200acd1fad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/70be9e4f9c622203f81d96918222aaa4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/70be9e4f9c622203f81d96918222aaa4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/6b3753b7091b9a12abe5450fc12da4da/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/6b3753b7091b9a12abe5450fc12da4da/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/678f3a5600f59fe183b50d0114f4c45d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/678f3a5600f59fe183b50d0114f4c45d/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/b9272d7d5c6dbeef3f74469000ebe60f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/b9272d7d5c6dbeef3f74469000ebe60f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/0daff31b897bfe37f3fa503ab46689f9/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/0daff31b897bfe37f3fa503ab46689f9/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/7c160ebaa8a6a306cb4060a7645ae3af/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/7c160ebaa8a6a306cb4060a7645ae3af/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/6c44b5bcd466164ac06c22ef27a1f40c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/6c44b5bcd466164ac06c22ef27a1f40c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/728d43184d461f104d425c83d1d36067/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/728d43184d461f104d425c83d1d36067/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:13:5-32:19
+MERGED from [:react-native-fbsdk] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] /Users/MacBookpro15/Projects/RNBoilerPlate/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.32.0.aar/508f19a22a9c8b7a2729b38bc25747ae/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.32.0.aar/508f19a22a9c8b7a2729b38bc25747ae/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-login-4.32.0.aar/d226a00d022e9ec0861d35be1d1cb94a/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-login-4.32.0.aar/d226a00d022e9ec0861d35be1d1cb94a/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-share-4.32.0.aar/82673e5e98fc1edc9d0e650de7461ead/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-share-4.32.0.aar/82673e5e98fc1edc9d0e650de7461ead/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/6bc58dd59b5106a31731fe492c9bb090/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/6bc58dd59b5106a31731fe492c9bb090/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.react:react-native:0.49.5] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/13aac465efcb6ea58f9c593e0f23d65c/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.49.5] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/13aac465efcb6ea58f9c593e0f23d65c/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.android:facebook-places:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-places-4.32.0.aar/a3db0cae262f2dd0401c6ceba3309158/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-places-4.32.0.aar/a3db0cae262f2dd0401c6ceba3309158/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.32.0.aar/d863fe88f6304f4f1f10c06ac57e749f/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.32.0.aar/d863fe88f6304f4f1f10c06ac57e749f/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.32.0.aar/a74879a227df592a3bc577228521658b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.32.0.aar/a74879a227df592a3bc577228521658b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/a39b0e35b4e01017ee3e14ee08bbed29/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/a39b0e35b4e01017ee3e14ee08bbed29/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/7c160ebaa8a6a306cb4060a7645ae3af/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/7c160ebaa8a6a306cb4060a7645ae3af/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/dca050062742b74f9295245bdc12b417/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/dca050062742b74f9295245bdc12b417/AndroidManifest.xml:2:3-17
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.32.0.aar/508f19a22a9c8b7a2729b38bc25747ae/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:icon
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:theme
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:14:7-38
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:19:9-107
+	android:value
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:19:66-105
+	android:name
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:19:20-65
+activity#com.rndemoskeleton.MainActivity
+ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:21:9-30:18
+	android:label
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:23:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:25:9-51
+	android:configChanges
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:24:9-79
+	android:name
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:22:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:26:9-29:25
+action#android.intent.action.MAIN
+ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:27:13-65
+	android:name
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:27:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:28:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:31:7-84
+	android:name
+		ADDED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:31:17-81
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/6bc58dd59b5106a31731fe492c9bb090/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/6bc58dd59b5106a31731fe492c9bb090/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/6bc58dd59b5106a31731fe492c9bb090/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/6bc58dd59b5106a31731fe492c9bb090/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/6bc58dd59b5106a31731fe492c9bb090/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/6bc58dd59b5106a31731fe492c9bb090/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/a39b0e35b4e01017ee3e14ee08bbed29/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/a39b0e35b4e01017ee3e14ee08bbed29/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/a39b0e35b4e01017ee3e14ee08bbed29/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.32.0] /Users/MacBookpro15/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/a39b0e35b4e01017ee3e14ee08bbed29/AndroidManifest.xml:40:13-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:1:1-34:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:1:1-34:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/MacBookpro15/Projects/RNBoilerPlate/android/app/src/main/AndroidManifest.xml:1:1-34:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

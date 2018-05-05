@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.0.2_a6efa230817734252d90a48bf724844be85ecc4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_301a0b4eca7c14654aa77ab0e0faad1991d57ed1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3a79b503ed4efc6d5a625fa19fb64b71baed6c63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_d615e5f1314c9f8e22e74da1478d521acb2b39f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_38542e2638c9add528875cbd9352931647fe46a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_50665685e61113cdf41a3a5568875a9ed760f7a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.0.2_f58af6effc5ec4f223c7b4c21dd878981eeef25c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_7982ccb5d669acb97a99ed77fd599516c876f2b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58a3043ff0f8d98128c9b2d82d7d579c39a6cdec">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-core-4.32.0_1e21228ccf10b779befc700e8bc3c1f05048f539.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_86479b36ffc20e337a1086532d809ffbd88cc5d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b1a1b54aae08a76bfb61aeba9493a0072f67233e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.0.2_5070c0cdd4c5f71d031c6e1171cda76e14aeca33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.0.2_355dba59f96e1b6820d1b1300f9122398c449743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_044e0094493846b9de8d5dddfbfd9013f41f7194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_0a2edeb84bff12321ccbc3ca604763b9cea8ac97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-27.0.2_b8478c01bbfc010fbcea7e7bc531fba8c61e3592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39c51fbcdfbe3a81c923cfd1159b27bf28738933">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-login-4.32.0_982d7a00b5797031fcd225d2c0f330d18b6da135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-27.0.2_28e844392470180182ba4f79b86fdd1e6d4531e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.0.2_708959494d46fffb4de2b857280540aa47e30c7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_3650d79bc0887d693c34f4986187279f0e50c362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6d3dda07fbd30171edc150e4f13884fce5cd9926">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-messenger-4.32.0_b579b8ad1b78f15d2a551220b2b54b21147c2bb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_0db9ae00f93eb118b2a88f7c3337e0cc2c8dd2c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/core-3.3.0_c34ba5e5305a8a703643fac48553219ad18569c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-27.0.2_21e0973982338e4f272942a938b7fe74be7bdd71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.32.0_65c288aaf5b8e4fb505c4abdcbd771d67fb2f835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-applinks-4.32.0_86990e8656b119dd9db9eb68a719fe80902ce0b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95d97996ec624fca99f6b06ad6004c749259970d">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-share-4.32.0_b8badddb5d0c366d06795cf346dbd1281eed2447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/RNDemoSkeleton/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/RNDemoSkeleton-react-native-vector-icons-unspecified_b8bacfeec9e0ecac9b2830eec9659674a2e0ff20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7d597ddc905be2f6d5bfddd63eb8229b62fe2103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_9b673fe3dfded8149576f6e9bf42423f674c3d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="610b957661a666d16b2cd4664c6bf4370226dfd2">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.5_2688900c241365b494e511ea7424dfcb1b7ad490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.0.2_3ee848a347592d2c1b6e12573f28f778eeccbb87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/RNDemoSkeleton/react-native-i18n/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="265d5a9330ad02283d16b9886fe8acebb306cd1e">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/RNDemoSkeleton-react-native-i18n-unspecified_cf4ce4de337186dd459a822a9eefc1c0901f8974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_f982b9a98ba5a4352fe8e8b17413483115e02c41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/RNDemoSkeleton/react-native-fbsdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44f21b570dd38d9a7ebe2c9587febfde2f493e99">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/RNDemoSkeleton-react-native-fbsdk-unspecified_035c601e22f9a0f37b670c5cede96395e9889d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_39b450418d356f641cc30a5f6b12bba5742fb6e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-27.0.2_ca3c5da38ab14bb1b2b0dba427a075b162a12a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/common-1.0.3_d36317d9bbda3093978205b301c3c23fea992f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/RNDemoSkeleton/react-native-simpledialog-android/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="172b47c6633b794de53258ceac54eb876b4ed537">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/RNDemoSkeleton-react-native-simpledialog-android-unspecified_6d05ec3c497949e0a5b37cccdeeb6550ee41c8c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="10d66e720416b2d4e5e16b4d3f5c98989b4e1c15">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-places-4.32.0_16d89677deab97e3527eb4915f9127d25a64f2d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_ddbbe9b10a96041aa0236349406787c81fc1e5b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.32.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d127661c786c056316cda1fe4d4cfb942b2d00c">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-common-4.32.0_5f99b91fb508de86249f716835b2d21b4ba64f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.3_0a154c238d05e574261f4bd5cc722e73beef2519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_93d62f4e195bc00edd15b914e9aa4746a2c3dfbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.0.2_e3e03ee90b9e17babafd750c591478c145b3ff56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/MacBookpro15/Projects/RNBoilerPlate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_d0478600208e5a03cc2eeb34ba9c950fad48dab7.jar" />
+    </item>
+
+</items>
